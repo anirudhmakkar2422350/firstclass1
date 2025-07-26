@@ -20,7 +20,8 @@ public:
 };
 
 int main() {
-    apple a1, a2;
+    apple a1;
 
     a1.insertdata();
+    
     return 0;
